@@ -67,8 +67,6 @@ ___
 <p><img align="left" width="410" src="https://github-readme-stats.vercel.app/api?username=themukhtarahmed&show_icons=true&locale=en&theme=gotham" alt="themukhtarahmed" /></p>
 
 <p><img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=themukhtarahmed&theme=gotham" alt="themukhtarahmed" /></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <!--
 <div align="center">
