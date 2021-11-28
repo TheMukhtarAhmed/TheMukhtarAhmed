@@ -70,7 +70,7 @@ ___
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  
+  <!--
 <div align="center">
 
 ### Show some ❤️ by sharing my Projects!
@@ -79,6 +79,7 @@ ___
 [<img src="https://img.shields.io/badge/mysocials-orange?style=for-the-badge">](https://mysocials.in)
 
 </div>
+ -->
 
 
 <!--
