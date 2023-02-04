@@ -76,6 +76,7 @@ ___
 
 
  ---
+ <br>
  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=themukhtarahmed&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
@@ -85,6 +86,8 @@ ___
 
 ---
 [![](https://visitcount.itsvg.in/api?id=themukhtarahmed&icon=6&color=11)](https://visitcount.itsvg.in)
+ 
+ <br>
  
 <div align="center">
 
