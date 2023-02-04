@@ -73,6 +73,16 @@ ___
 <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=themukhtarahmed&theme=gotham" alt="themukhtarahmed" /></p>
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=joeel561&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=joeel561&icon=6&color=11)](https://visitcount.itsvg.in)
  
 <div align="center">
 
