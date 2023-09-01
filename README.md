@@ -1,7 +1,7 @@
 <h3> < Hello world, I'm <a href="https://annujolly.netlify/" target="_blank"> Mukhtar Ahmed</a> />
  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  </h3>
-I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. and I am the founder of smartlnks.com, gotos.in and mysocials.in .
+I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. and I am the founder of SmartLnks.com, gotos.in and mysocials.in .
   
 ##### A little more about me...  
 
@@ -18,7 +18,7 @@ const Mukhtar = {
            { Course : Bachelors in Technology ,  
               Branch : Computer Science } 
            ],
- Projects : ['Smartlnks.com', 'gotos.in' 
+ Projects : ['SmartLnks.com', 'gotos.in' 
             'mysocials.in'
             ]
 }
